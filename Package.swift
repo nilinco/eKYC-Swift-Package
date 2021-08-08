@@ -12,7 +12,7 @@ let package = Package(
     ],
     targets: [
             .binaryTarget(name: "eKYC",
-                          url: "https://github.com/nilinco/eKYC-iOS/archive/refs/tags/1.0.0.zip",
+                          url: "https://nilin.co/sdk/eKYC.xcframework.zip",
                           checksum: "e1968cbadd1bae1f9c3ca449796087b5b89d098df2d1ffcf623b8ed0a8d5b1bb"),
     ]
 )
